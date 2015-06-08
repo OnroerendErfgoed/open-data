@@ -1,0 +1,46 @@
+{
+    "title": "Thesaurus Stijlen en Culturen",
+    "name": "thesaurus-stijlen-en-culturen",
+    "url": "https://inventaris.onroerenderfgoed.be/thesaurus/stijlen-en-culturen",
+    "notes": "De thesarus van datering bevat stijlen en culturen die in de erfgoedpraktijk gehanteerd worden, zoals _art deco_, _ahrensburgiaan_, _barok_, _modernisme_, _klokbekercultuur_, ...",
+    "private": false,
+    "isopen": true,
+    "license_id": "gratis-open-data-licentie-1.2",
+    "owner_org": "52d0dc57-5a04-4731-92ce-27880adfd2a0",
+    "author": "Onroerend Erfgoed",
+    "author_email": "info@onroerenderfgoed.be",
+    "maintainer": "Onroerend Erfgoed",
+    "maintainer_email": "ict@onroerenderfgoed.be",
+    "tags": [
+        {"vocabulary_id": null, "state": "active", "display_name": "Thesaurus", "name": "Thesaurus"},
+        {"vocabulary_id": null, "state": "active", "display_name": "Archeologie", "name": "Archeologie"},
+        {"vocabulary_id": null, "state": "active", "display_name": "Erfgoed", "name": "Erfgoed"},
+        {"vocabulary_id": null, "state": "active", "display_name": "Landschappen", "name": "Landschappen"},
+        {"vocabulary_id": null, "state": "active", "display_name": "Monumenten", "name": "Monumenten"},
+        {"vocabulary_id": null, "state": "active", "display_name": "Onroerend Erfgoed", "name": "Onroerend Erfgoed"},
+        {"vocabulary_id": null, "state": "active", "display_name": "Varend Erfgoed", "name": "Varend Erfgoed"}
+    ],
+    "resources": [
+        {
+            "description": "Een CSV download van de thesaurus",
+            "format": "CSV",
+            "name": "CSV Download",
+            "url": "https://inventaris.onroerenderfgoed.be/thesaurus/stijl/lijst/csv",
+            "resource_type": null
+        }, {
+            "description": "Een HTML interface op de thesaurus",
+            "format": "HTML",
+            "name": "HTML interface",
+            "url": "https://inventaris.onroerenderfgoed.be/thesaurus/stijl/lijst",
+            "resource_type": null
+        }, {
+            "description": "Een JSON download van de thesaurus",
+            "format": "JSON",
+            "name": "JSON Download",
+            "url": "https://inventaris.onroerenderfgoed.be/thesaurus/stijl/lijst.json",
+            "resource_type": null
+        }
+    ],
+    "groups": [],
+    "extras": []
+}
